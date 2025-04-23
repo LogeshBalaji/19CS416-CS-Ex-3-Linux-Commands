@@ -369,3 +369,4 @@ find <directory> -name <file_name>
 ![Screenshot 2025-04-23 150537](https://github.com/user-attachments/assets/25f05f8a-8020-4e49-a923-cbd23f0377d8)
 
 ## Result
+Linux commands are executed in the linux terminal successfully.
